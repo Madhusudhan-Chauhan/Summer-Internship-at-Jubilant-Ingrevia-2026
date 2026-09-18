@@ -1,0 +1,300 @@
+STANDARD OPERATING PROCEDURE (SOP)
+
+Operation of Digital Work Permit System
+
+1. Purpose
+
+To provide a systematic procedure for operating the Digital Work Permit System and managing work permits from creation through monitoring and closure.
+
+2. Scope
+
+This SOP covers the use of the digital system for creating, assessing, reviewing, issuing, monitoring, recording, and closing work permits.
+
+3. System Access
+
+1. Locate the `Jubilant_WPS.html` file on the computer.
+2. Open the file using a modern web browser such as Google Chrome or Microsoft Edge.
+3. The Digital Work Permit System interface will open.
+4. Use the navigation menu to access the required module.
+5. The prototype stores permit records locally in the browser; therefore, avoid clearing browser/site data while using the system if existing records need to be retained.
+
+
+4. Procedure for Creating a Permit
+
+Step 1 – Open Create Permit
+
+Select Create Permit from the navigation menu.
+
+Step 2 – Select Permit Category
+
+Select the appropriate category according to the proposed activity:
+
+* Category-1 Hazardous Job
+* Category-2 Non-Hazardous Job
+* Category-3 Digging/Excavation
+* Electrical Connection Permit
+* HT/LT Electrical Permit
+* Other/Special Permit
+
+Step 3 – Select Work Type
+
+Select the specific job, such as:
+
+* Hot Work
+* Confined Space
+* Work at Height
+* Rigging/Lifting
+* Line Breaking/Opening
+* Electrical Work
+* Excavation
+* General Maintenance
+* Cold Work
+* Pump/Valve Maintenance
+* Other applicable work
+
+ Step 4 – Enter Permit Details
+
+Enter the required information relating to the:
+
+* Job
+* Work location/area
+* Contractor
+* Responsible persons
+* Work duration
+* Permit details
+
+Check all entered information before proceeding.
+
+5. Risk Assessment
+
+Open Live Risk Matrix.
+
+1. Identify the hazards associated with the activity.
+2. Assess the relevant risk parameters.
+3. Review the resulting risk level.
+4. Specify appropriate control measures.
+5. Identify the responsible person/owner where applicable.
+6. Confirm that the proposed controls are adequate before continuing.
+
+For high-risk activities, the responsible safety personnel should review the assessment before permit issuance.
+
+6. Work Checklists
+
+Open Work Checklists.
+
+1. Review the automatically relevant checklist items.
+2. Complete each applicable item.
+3. Select the appropriate status such as Yes, No, or N/A, where provided.
+4. Add remarks wherever clarification is required.
+5. Do not proceed with permit issuance if a mandatory safety requirement remains incomplete.
+
+7. PPE & Hazards
+
+Open PPE & Hazards.
+
+1. Review the hazards associated with the selected work.
+2. Verify the required PPE.
+3. Add additional PPE where necessary.
+4. Confirm that workers have the required PPE before work starts.
+
+Examples include safety helmet, safety shoes, goggles, FR clothing, welding shield, gloves, harness, and other work-specific PPE.
+
+8. Contractor Competency
+
+Open Contractor Competency.
+
+Record and verify:
+
+* Contractor/company details
+* Contractor ID
+* Supervisor
+* Contact information
+* Worker count
+* Skilled workers/helpers/certified workers
+* Required competency documents
+* Machine fitness information
+* Tool inspection information
+
+Ensure that required competency and equipment-related information is available before issuing the permit.
+
+9. Isolation Register
+
+Open Isolation Register.
+
+1. Identify applicable energy sources.
+2. Record required isolation points.
+3. Enter the isolation information.
+4. Verify that required isolation has been completed.
+5. Confirm the isolation before allowing the associated work to proceed.
+
+Isolation should be verified by the responsible authorized personnel according to the applicable plant procedure.
+
+10. Measures by Role
+
+Open Measures by Role.
+
+Review the responsibilities and safety measures assigned to relevant personnel, such as:
+
+* Issuer/Area In-charge
+* Acceptor/Job In-charge
+* Approver/HOD
+* Safety Officer
+* Gas Tester
+* Contractor/Supervisor
+
+Confirm that responsibilities are clearly understood before work begins.
+
+11. Evidence / Photos / Documents
+
+Open Evidence / Photos / Documents.
+
+1. Select the required PDF, PNG, JPG, or JPEG files.
+2. Upload relevant safety evidence.
+3. Select Add Evidence to Current Draft.
+4. Verify that the evidence has been successfully added.
+
+Evidence may be used to document relevant safety conditions, inspections, or supporting information.
+
+12. Final Review and Permit Issue
+
+Open Final Review / Issue.
+
+Before issuing the permit, verify:
+
+* Permit details
+* Work type
+* Location
+* Risk assessment
+* Work checklist
+* PPE
+* Contractor competency
+* Isolation
+* Safety measures
+* Evidence
+* Responsible persons
+* Work validity
+
+After completing the review, proceed with the available permit issue/activation function.
+
+13. Permit Monitoring
+
+Open Permit Display & Records.
+
+The display board provides information regarding active/issued permits, including:
+
+* Permit number
+* Job
+* Risk
+* Contractor/representatives
+* Status
+* Issue/validity information
+
+Use the display board to monitor ongoing work activities.
+
+The system also provides permit history, timelines, associated permits, and record information.
+
+14. QR Code Verification
+
+For an applicable permit, open the QR function.
+
+The QR code contains a basic permit summary, including:
+
+* Permit number
+* Status
+* Area
+* Work type
+* Validity
+
+Use it as a quick field-reference mechanism for the permit information provided by the system.
+
+15. Action Tracker
+
+Open Action Tracker.
+
+1. Enter the required action.
+2. Assign an owner.
+3. Enter the due date.
+4. Add the action.
+5. Monitor its status.
+6. Close the action after completion.
+
+This module helps track outstanding safety-related actions.
+
+16. Notifications and Alerts
+
+Use Notifications to review permit-related updates.
+
+Use Alerts to identify issues such as:
+
+* SIMOPS conflicts
+* Time-exceeded permits
+* Permits approaching permissible time limits
+* Other system-generated safety alerts
+
+Review alerts promptly and take the required action according to the applicable site procedure.
+
+17. Permit Records and Reports
+
+The Permit Display & Records section provides access to current and past permit information.
+
+Permit reports/registers can be generated for documentation and review. The system supports structured permit reports containing permit details, risk information, checklists, evidence, timeline, transfer history, extension history, closure details, and signatures where recorded.
+
+18. Permit Closure
+
+After completion of the job:
+
+1. Confirm that the work has been completed safely.
+2. Verify that workers, tools, equipment, and temporary arrangements are cleared as applicable.
+3. Confirm restoration of the work area.
+4. Complete the applicable closure information.
+5. Close the permit using the available closure function.
+6. Verify that the permit status and closure details are recorded.
+
+19. Important Operating Precautions
+
+* Do not issue a permit with incomplete mandatory safety information.
+* Risk assessment must be completed before work authorization.
+* Required PPE and safety controls must be verified before work begins.
+* Isolation requirements must be confirmed for applicable jobs.
+* Permit validity must be monitored continuously.
+* SIMOPS alerts should be reviewed before and during concurrent activities.
+* Evidence and supporting documents should be attached where required.
+* Permit records should not be deleted or browser storage cleared without authorization.
+* The digital prototype should support, not automatically replace, the site's approved Work Permit System and safety procedures.
+* Final authorization must remain with the designated competent/authorized personnel.
+
+ 20. Basic Operating Flow
+
+Login/Open System
+↓
+Create Permit
+↓
+Select Category & Work Type
+↓
+Enter Job Details
+↓
+**Risk Assessment
+↓
+Complete Work Checklist
+↓
+Verify PPE & Hazards
+↓
+Verify Contractor Competency
+↓
+Record Isolation
+↓
+Assign Measures by Role
+↓
+Attach Evidence
+↓
+Final Review
+↓
+Issue/Activate Permit
+↓
+Live Monitoring & Alerts
+↓
+Complete Work
+↓
+Close Permit
+↓
+Maintain Permit Record / Report
